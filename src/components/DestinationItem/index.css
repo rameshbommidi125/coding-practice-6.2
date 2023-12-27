@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.image {
+  height: 180px;
+  width: 180px;
+}
+.paragraph {
+  font-size: 10px;
+
+  font-weight: bold;
+}
+.list {
+  list-style-type: none;
+}
